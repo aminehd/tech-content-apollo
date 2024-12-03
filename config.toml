@@ -1,4 +1,4 @@
-base_url = "https://not-matthias.github.io/apollo/"
+base_url = "https://github.com/aminehd/tech-content-apollo"
 title = "not-matthias"
 description = "This is an example description"
 build_search_index = false
@@ -42,7 +42,3 @@ enabled = false
 [extra.analytics.goatcounter]
 user = "your_user"
 host = "example.com" # default= goatcounter.com
-
-[extra.analytics.umami]
-website_id = "43929cd1-1e83...."
-host_url = "https://stats.mywebsite.com" # default: https://analytics.eu.umami.is
